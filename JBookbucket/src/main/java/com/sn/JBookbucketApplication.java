@@ -8,6 +8,7 @@ public class JBookbucketApplication {
 	
 
 	public static void main(String[] args) {
+		System.out.println("test");
 		SpringApplication.run(JBookbucketApplication.class, args);
 	}
 
